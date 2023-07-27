@@ -1,7 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Jon! 
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+
+  - [Nessus Tenable Vulnerability Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [SIEM Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+
+  - [Active Directory Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**Donjon3000/DonJon3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
