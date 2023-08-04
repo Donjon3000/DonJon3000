@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
-  - [Nessus Tenable Vulnerability Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Nessus Tenable Vulnerability Lab]
 
   - [SIEM Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
