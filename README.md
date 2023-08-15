@@ -6,7 +6,7 @@
 
   - [SIEM Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
-  - [Active Directory Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Active Directory Lab](https://github.com/Donjon3000/ActiveDirectoryLAB)
 
 
 
