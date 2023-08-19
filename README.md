@@ -4,7 +4,7 @@
 
   - [Nessus Tenable Vulnerability Lab](https://github.com/Donjon3000/NessusTenableLab)
 
-  - [SIEM Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [SIEM Lab]
 
   - [Active Directory Lab](https://github.com/Donjon3000/ActiveDirectoryLAB)
 
