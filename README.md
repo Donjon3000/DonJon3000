@@ -4,7 +4,6 @@
 
   - [Nessus Tenable Vulnerability Lab](https://github.com/Donjon3000/NessusTenableLab)
 
-  - [SIEM Lab](https://github.com/Donjon3000/NessusTenableLab)
 
 
   - [Active Directory Lab](https://github.com/Donjon3000/ActiveDirectoryLAB)
